@@ -1,0 +1,14 @@
+{
+  "name": "experiment-02-mongodb-crud",
+  "version": "1.0.0",
+  "description": "Lab 2: MongoDB Mongoose CRUD Operations",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}

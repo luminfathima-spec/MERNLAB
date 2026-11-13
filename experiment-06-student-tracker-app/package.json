@@ -1,0 +1,15 @@
+{
+  "name": "experiment-06-student-tracker-app",
+  "version": "1.0.0",
+  "description": "Lab 6: Full-Stack MERN Student Task & Grade Tracker",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
